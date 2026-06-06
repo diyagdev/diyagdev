@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Diya G
 
-<!--
-**diyagdev/diyagdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Graduate and Web Developer from Maharashtra, India.
 
-Here are some ideas to get you started:
+I work with WordPress, PHP, HTML, CSS, JavaScript, Bootstrap, SQL, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus is building websites for small businesses, portfolios, blogs, and other web-based projects while improving my deployment and client delivery skills.
+
+## Skills
+
+* WordPress
+* Joomla
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* PHP
+* SQL / MySQL
+* SQLite
+* Python
+
+## Current Goals
+
+* Build professional portfolio projects
+* Learn website deployment and hosting
+* Gain practical freelance experience
+* Deliver high-quality websites for clients
+
+## Contact
+
+LinkedIn:
+linkedin.com/in/diyagdev
